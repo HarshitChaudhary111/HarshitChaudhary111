@@ -14,7 +14,7 @@
 ## 🚀 About Me
 - 🎓 CSE @ Bennett University  
 - 🧠 Into **ML, Cloud, Web Apps & Data Systems**  
-- 🏗 Working on **Tripsy** + ML projects (Fake News, Image Forgery, House Price etc.)  
+- 🏗 Working on ML projects (Fake News, Image Forgery, House Price etc.)  
 - ☁️ Currently tinkering with AWS  
 - 🎯 I learn by building & shipping 🚀  
 
