@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠 Tech Stack (Live Badges)
+## 🛠 Tech Stack
 
 ### **Languages**
 <p>
